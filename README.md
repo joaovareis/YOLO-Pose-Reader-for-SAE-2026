@@ -37,7 +37,7 @@ The result is displayed in real time directly on the video stream.
 
 The project is modular and divided into three main components:
 
-### 1. Main Application (`main.py`)
+### 1. Main Application (`yolo_reading.py`)
 
 * Initializes camera stream
 * Applies lens undistortion using calibration data
