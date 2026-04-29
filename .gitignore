@@ -1,0 +1,9 @@
+# Ignora todas as pastas __pycache__ em qualquer nível do projeto
+**/__pycache__/
+
+# Ignora todos os arquivos compilados do python
+*.pyc
+
+# Ignora pasta do vscode
+.vscode/
+
